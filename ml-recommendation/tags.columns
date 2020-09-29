@@ -1,0 +1,3 @@
+"name","type","length","leftDigits","rightDigits"
+"tag_id","INTEGER","5","5","0"
+"tag_name","STRING","35","0","0"

@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"goodreads_book_id","INTEGER","8","8","0"
+"tag_id","INTEGER","5","5","0"
+"count","INTEGER","6","6","0"

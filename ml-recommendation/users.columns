@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"user_id","INTEGER","5","5","0"
+"age","INTEGER","3","3","0"
+"dob_day","INTEGER","2","2","0"
+"dob_year","INTEGER","4","4","0"
+"dob_month","INTEGER","2","2","0"
+"gender","STRING","6","0","0"
+"password","STRING","13","0","0"

@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"book_id","INTEGER","5","5","0"
+"user_id","INTEGER","5","5","0"
+"rating","INTEGER","1","1","0"
