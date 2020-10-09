@@ -1,5 +1,4 @@
 # Book Recommendation System
-##### Authors: Anagha M Anil Kumar, Harish P.B, Prince Jha
 
 ## Details
 The Book Recommendation system recommends books based on a book selected by the user. The book is recommended based on authors, genre.
